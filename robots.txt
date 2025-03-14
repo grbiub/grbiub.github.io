@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://grbiub.csgad.com/NrI/sitemap.xml.gz
